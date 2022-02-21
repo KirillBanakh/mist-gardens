@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.nav-link-regular {
+    padding-right: 40px;
+    text-decoration: none;
+    color: #475F45;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+}
+
+.nav-link-regular:hover {
+    color: #475F45;
+}
+.nav-item-text:active {}
